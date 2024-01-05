@@ -4,5 +4,5 @@
      SPDX-License-Identifier: Apache-2.0
 -->
 <config>
-    <allow-in-power-save package="package:org.derpfest.prospect" />
+    <allow-in-power-save package="package:com.redbirdrom.prospect" />
 </config>

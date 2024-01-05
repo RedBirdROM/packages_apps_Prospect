@@ -24,14 +24,14 @@ android_app {
 	enabled: false,
     },
     required: [
-	"org.derpfest.prospect_allowlist",
+	"com.redbirdrom.prospect_allowlist",
     ],
 }
 
 prebuilt_etc {
-    name: "org.derpfest.prospect_allowlist",
+    name: "com.redbirdrom.prospect_allowlist",
     system_ext_specific: true,
     sub_dir: "permissions",
-    src: "allowlist_org.derpfest.prospect.xml",
+    src: "allowlist_com.redbirdrom.prospect.xml",
     filename_from_src: true,
 }

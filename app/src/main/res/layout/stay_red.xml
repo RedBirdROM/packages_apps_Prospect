@@ -39,7 +39,7 @@
             <ImageView
                 android:layout_width="28dp"
                 android:layout_height="28dp"
-                android:src="@drawable/ic_derp_logo"
+                android:src="@drawable/ic_redbird_logo"
                 android:tint="@android:color/system_accent1_600" />
 
             <TextView
@@ -54,7 +54,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Derped"
+                android:text="Red"
                 android:fontFamily="@font/gsans"
                 android:textColor="@android:color/system_accent1_600"
                 android:textSize="20sp"/>

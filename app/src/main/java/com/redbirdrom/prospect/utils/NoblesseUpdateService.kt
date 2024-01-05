@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.derpfest.prospect.utils
+package com.redbirdrom.prospect.utils
 
 import android.app.Service
 import android.appwidget.AppWidgetManager
@@ -11,7 +11,7 @@ import android.content.*
 import android.os.BatteryManager
 import android.os.IBinder
 import android.util.Log
-import org.derpfest.prospect.Noblesse
+import com.redbirdrom.prospect.Noblesse
 
 
 class NoblesseUpdateService : Service() {

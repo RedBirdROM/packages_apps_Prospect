@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-package org.derpfest.prospect
+package com.redbirdrom.prospect
 
 import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
@@ -13,7 +13,7 @@ import android.content.Intent
 import android.content.res.Resources
 import android.util.Log
 import android.widget.RemoteViews
-import org.derpfest.prospect.utils.NoblesseUpdateService
+import com.redbirdrom.prospect.utils.NoblesseUpdateService
 
 /**
  * Implementation of App Widget functionality.

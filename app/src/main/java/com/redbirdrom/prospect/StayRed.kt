@@ -1,4 +1,4 @@
-package org.derpfest.prospect
+package com.redbirdrom.prospect
 
 import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider

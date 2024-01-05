@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'org.derpfest.prospect'
+    namespace 'com.redbirdrom.prospect'
     compileSdk 33
 
     defaultConfig {
-        applicationId "org.derpfest.prospect"
+        applicationId "com.redbirdrom.prospect"
         minSdk 33
         targetSdk 33
         versionCode 1
