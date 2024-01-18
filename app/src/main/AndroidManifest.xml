@@ -22,7 +22,7 @@
 
             <meta-data
                 android:name="android.appwidget.provider"
-                android:resource="@xml/stay_redbirded_info" />
+                android:resource="@xml/stay_red_info" />
         </receiver>
 
         <service
